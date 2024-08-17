@@ -1,2 +1,2 @@
 # Bayesian-Inference_1
-Using Bayesian Rules to predict the trajectory of an airplane based on radar observations with various airplane trajectories;
+Worked on a Kalman Filter to predict the trajectory of an airplane with varying trajectories using radar observations and Bayesian rules.
